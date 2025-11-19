@@ -14,7 +14,7 @@
 
 # Gaussianity-Aware Gaussian Approximation (GAGA)
 
-This repository contains code and scripts for reproducing the **GAGA**. In this project, we use [EDM](https://arxiv.org/abs/2203.17003) as an example to plug in GAGA algorithm. Because most other 3D molecular generation baselines are constructed on EDM, so it's easy to transfer EDM-GAGA to other baselines-GAGA.
+This repository contains code and scripts for reproducing the **GAGA**. In this project, we use [EDM](https://arxiv.org/abs/2203.17003) as an example to plug in GAGA algorithm. Because most other 3D molecular generation baselines are constructed on EDM, so it's easy to transfer EDM-GAGA to other baselines-GAGA. The required dependecies are listed in requirements.txt.
 
 ---
 
