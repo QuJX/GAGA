@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Paper](https://openreview.net/pdf?id=Q9gz8lVyAi)
+[![Paper](https://img.shields.io/badge/PDF-Paper-red.svg)](https://openreview.net/pdf?id=Q9gz8lVyAi)
 
 </div>
 
