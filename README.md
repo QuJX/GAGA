@@ -112,3 +112,5 @@ python GAGA_test.py --model_path=outputs/edm_geom_max_650 \
 --n_samples=10000 --sampling_step_size=1 --shortcut=Gaussian \
 --test_name=GEOM_GA --dataset_var=0.952 --GA_timestep=650 --iteration=3
 ```
+
+The training weights of EDM-GAGA are uploaded to [here](https://drive.google.com/drive/folders/1vO7qmFIziEVBtBNqtPHy_hDEA1Lz8ZgV?usp=sharing). Please place them under the --model_path in your command.
