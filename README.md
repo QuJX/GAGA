@@ -1,7 +1,9 @@
 # <p align=center> [ICLR] GAGA: Gaussianity-Aware Gaussian Approximation for Efficient 3D Molecular Generation</p>
 
 <div align="center">
+  
 [![Paper](https://openreview.net/pdf?id=Q9gz8lVyAi)
+
 </div>
 
 ---
