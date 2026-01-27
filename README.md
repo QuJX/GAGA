@@ -1,13 +1,13 @@
 # <p align=center> [ICLR] GAGA: Gaussianity-Aware Gaussian Approximation for Efficient 3D Molecular Generation</p>
 
 <div align="center">
-
+[![Paper](https://openreview.net/pdf?id=Q9gz8lVyAi)
 </div>
 
 ---
 
 >**GAGA:  Gaussianity-Aware Gaussian Approximation for Efficient 3D Molecular Generation** <br>
->ICLR 2026 in Submission<br>
+>ICLR 2026<br>
 
 > **Introduction:** *Gaussian Probability Path based Generative Models (GPPGMs) generate data by reversing a stochastic process that progressively corrupts samples with Gaussian noise. Despite state-of-the-art results in 3D molecular generation, their deployment is hindered by the high cost of long generative trajectories, often requiring hundreds to thousands of steps during training and sampling. In this work, we propose a principled method, named GAGA, to improve generation efficiency without sacrificing training granularity or inference fidelity of GPPGMs. Our key insight is that different data modalities obtain sufficient Gaussianity at markedly different steps during the forward process. Based on this observation, we analytically identify a characteristic step at which molecular data attains sufficient Gaussianity, after which the trajectory can be replaced by a closed-form Gaussian approximation. Unlike existing accelerators that coarsen or reformulate trajectories, our approach preserves full-resolution learning dynamics while avoiding redundant transport through truncated distributional states. Experiments on 3D molecular generation benchmarks demonstrate that our GAGA achieves substantial improvement on both generation quality and computational efficiency.*
 <hr />
